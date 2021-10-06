@@ -2,11 +2,9 @@
 
 ## Prerequisite
 
-* Java
+* Java lastest
 
-```bash
-/opt/ibm/wlp/bin/installUtility install  --acceptLicense /opt/ibm/wlp/usr/servers/defaultServer/server.xml
-```
+
 
 ## How to run with Docker
 
