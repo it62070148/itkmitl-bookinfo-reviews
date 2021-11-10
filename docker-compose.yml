@@ -3,6 +3,6 @@ services:
     build: .
     image: ghcr.io/it62070148/bookinfo-reviews:dev
     ports:
-      - "8082:8082"
+      - "9080:9080"
     environment:
       ENABLE_EXTERNAL_BOOK_SERVICE: "true"

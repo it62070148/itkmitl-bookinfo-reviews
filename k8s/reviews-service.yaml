@@ -6,6 +6,6 @@ metadata:
 spec:
   type: ClusterIP
   ports:
-  - port: 8082
+  - port: 9080
   selector:
     app: bookinfo-dev-reviews

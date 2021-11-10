@@ -17,4 +17,4 @@ spec:
           service:
             name: bookinfo-dev-reviews
             port:
-              number: 8082
+              number: 9080
